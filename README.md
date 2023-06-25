@@ -1,4 +1,4 @@
-# Description
+# Postgres-CSV
 How to insert data from CSV file to Postgres using Rust 
 
 ### Data
